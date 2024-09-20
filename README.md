@@ -1,4 +1,6 @@
 # Zomato-Dashboard
+# Zomato Sales Analysis 
+Dasboard Link=https://app.powerbi.com/groups/ce542524-d41c-4ea7-9abe-94f213caf45f/dashboards/68059a01-94e3-474f-bc14-72ca2530dd55?experience=power-bi
 # Problem Statement
 To provide Zomato with a comprehensive dashboard that offers insights into customer satisfaction, sales performance, and operational efficiency. This dashboard will enable Zomato to identify areas for improvement, optimize marketing strategies, and enhance overall customer experience.
 
